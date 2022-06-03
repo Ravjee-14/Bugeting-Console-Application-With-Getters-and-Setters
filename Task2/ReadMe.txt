@@ -38,6 +38,7 @@ This Application makes use of Getters and Setters.
     operating systems:
     
     - Microsoft Windows Win 10 with .NET 3.1
+    - Macintosh With Visual Studio
    
 
 2. The following operating systems are not supported:
@@ -51,8 +52,6 @@ This Application makes use of Getters and Setters.
     - Windows NT 4.0
     - Windows Vista
     - Windows 8
-    - Macintosh
-
 
     Any version of the following operating systems:
     - Linux
